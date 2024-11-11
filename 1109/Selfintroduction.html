@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>자기소개 - 강동협</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+        #profile {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+            max-width: 300px;
+        }
+    </style>
+</head>
+<body>
+    <div id="profile"></div>
+
+    <script>
+        // 프로필 정보
+        const profileData = {
+            이름: "강동협",
+            나이: "23살",
+            사는지역: "부산",
+            대학교: "경성대학교",
+            취미: "운동, 에세이 읽기",
+            알바: "현재 편의점 알바 중",
+            소개: "저는 평소 운동하는 것을 좋아하고 아직까지 관심있는 분야는 web입니다. 하지만 종강하고 다양하게 경험해보고 싶습니다. 또한 간단하게 할 수 있는 개인 프트폴리오 하나를 작업하고 싶습니다."
+        };
+
+        // 프로필 생성 및 추가
+        const profileContainer = document.getElementById("profile");
+        profileContainer.innerHTML = `<h2>${profileData.이름}</h2>` + 
+            Object.entries(profileData).slice(1).map(
+                ([key, value]) => `<p><strong>${key}:</strong> ${value}</p>`
+            ).join('');
+    </script>
+</body>
+</html>
