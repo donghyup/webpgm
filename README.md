@@ -28,4 +28,4 @@
 ## 과제인 줄 알았던 문제들
 [1125](http://example.com/1125)<br>
 ## 가고싶은 회사 소개
-[com.html](./com.html)
+[com.html]<a href="com.html">Go to com.html</a>
