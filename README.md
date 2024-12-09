@@ -8,24 +8,24 @@
 ## 목차
 1주차부터 15주차까지 웹프로그래밍과목의 과제와 수업 내용들
 ## 1차 과제
-[p.104openchallenge](http://example.com/p.104openchallenge)<br>
-[p58openchallenge](http://example.com/p58openchallenge)<br>
+[p.104openchallenge](https://donghyup.github.io/webpgm/p.104openchallenge)<br>
+[p58openchallenge](https://donghyup.github.io/webpgm/)<br>
 
 ## 2,3장
-[0925](http://example.com/0925)<br>
+[0925](https://donghyup.github.io/webpgm/0925)<br>
 ## 4,5장
-[1008](http://example.com/1008)<br>
+[1008](https://donghyup.github.io/webpgm/1008)<br>
 ## 6,7장
-[1028](http://example.com/1028)<br>
+[1028](https://donghyup.github.io/webpgm/1028)<br>
 ## 8,9장
-[1030](http://example.com/1030)<br>
+[1030](https://donghyup.github.io/webpgm/1030)<br>
 ## 별첨자료 수정 과제
-[1109](http://example.com/1109)<br>
+[1109](https://donghyup.github.io/webpgm/1109)<br>
 ## 10,11장 
-[1118]([http://example.com/1118](https://donghyup.github.io/webpgm/com.html))<br>
+[1118](https://donghyup.github.io/webpgm/1118)<br>
 ## 수업 중 과제
-[1119](http://example.com/1119)<br>
+[1119](https://donghyup.github.io/webpgm/1119)<br>
 ## 과제인 줄 알았던 문제들
-[1125](http://example.com/1125)<br>
+[1125](https://donghyup.github.io/webpgm/1125)<br>
 ## 가고싶은 회사 소개
-[com.html]<a href="com.html">Go to com.html</a>
+[com.html](https://donghyup.github.io/webpgm/com.html)
