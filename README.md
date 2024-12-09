@@ -27,4 +27,4 @@
 ## 과제인 줄 알았던 문제들
 [1125](https://donghyup.github.io/webpgm/1125)<br>
 ## 가고싶은 회사 소개
-[com.html](https://donghyup.github.io/webpgm/com.html)
+[회사 소개](https://donghyup.github.io/webpgm/com.html)
