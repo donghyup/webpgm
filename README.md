@@ -1,4 +1,9 @@
 # 2024 웹프로그래밍 수업용 공간
+# 🌟 Web Programming Project
+## 🧰 Tools & Technologies
+- 🖥️ HTML5
+- 🎨 CSS3
+- ⚙️ JavaScript
 
 ## 목차
 1주차부터 15주차까지 웹프로그래밍과목의 과제와 수업 내용들
