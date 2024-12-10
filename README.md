@@ -28,3 +28,8 @@
 [1125](https://donghyup.github.io/webpgm/1125)<br>
 ## 가고싶은 회사 소개
 [회사 소개](https://donghyup.github.io/webpgm/com.html)
+## 깃허브 파일,회사 소개
+[2021563001강동협깃허브.pptx](https://donghyup.github.io/webpgm/2021563001강동협깃허브.pptx)
+[2021563001강동협깃허브.pdf](https://donghyup.github.io/webpgm/2021563001강동협깃허브.pdf)
+[2021563001강동협카카오.pptx](https://donghyup.github.io/webpgm/2021563001강동협카카오.pptx)
+[2021563001강동협카카오.pdf](https://donghyup.github.io/webpgm/2021563001강동협카카오.pdf)
